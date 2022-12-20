@@ -44,7 +44,7 @@ pragma solidity >=0.4.16 <0.9.0;
    
 // Creating a contract
 contract Types {   
-    
+
     // Initializing Bool variable
     bool public boolean = false;
     
