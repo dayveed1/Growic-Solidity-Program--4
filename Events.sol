@@ -21,7 +21,7 @@ error AmountToSmall();
 
 /// Contract
 contract YourContract {
-    /// Owmer address
+    /// Owner address
     address payable owner;
     /// Owner funds
     uint256 public ownerFunds = 0;

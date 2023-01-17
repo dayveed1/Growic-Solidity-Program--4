@@ -30,7 +30,7 @@ contract MyContract {
     /// User struct
     struct User {
         string name;
-        uint256 age; //unint256 for age come on! uint8 => 255 years old is enought
+        uint256 age; //unint256 for age come on! uint8 => 255 years old is enough
         // in blockchain storage is money ...
         bool canAddFunds;
     }
